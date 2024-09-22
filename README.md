@@ -1,7 +1,7 @@
 # blinkit_Sales_Dashboard_PowerBI
 Project Overview
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
-![blinkit_dashboard](")
+![blinkit_dashboard]("https://github.com/Manikant23/blinkit_Sales_Dashboard_PowerBI/blob/main/Blinkit-Dashboard.png")
 
 # Key Performance Indicators (KPIs)
 The dashboard focuses on the following primary KPIs:
